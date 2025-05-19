@@ -1,0 +1,10 @@
+{
+  "name": "Techno Zen/Fruitger Aero UI Sounds",
+  "description": "Originally UI system sounds in the style of the Wii and WiiU for Steam Deck Audio Loader",
+  "author": "Eoghan Breathnach AKA clownkingjr",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
